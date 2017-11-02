@@ -7,5 +7,5 @@
 * [ ] Complete this To Do list with more items. **Do you have an idea? Please, create an issue to share it.**
 
 ## References
-https://www.npmjs.com/package/ui5ts
-https://github.com/lmcarreiro/ui5ts/issues
+* https://www.npmjs.com/package/ui5ts
+* https://github.com/lmcarreiro/ui5ts
