@@ -4,6 +4,7 @@
 * [ ] Add possibility to put Generic types in some classes/methods
 * [ ] Use the information about object properties in method parameters to build an interface instead of use `any`
 * [ ] Use the classes properties to build an interface for constructor parameter `mSettings` in some classes
+* [ ] Put in TsDoc information of `@deprecated`, `@experimental` and `@since` that is available in the API
 * [ ] Complete this To Do list with more items. **Do you have an idea? Please, create an issue to share it.**
 
 ## References
