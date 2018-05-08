@@ -814,8 +814,9 @@ declare interface JQuerySap {
      * convert UI5 module names to requireJS module names with a call to this method.
      * @param {string} sModuleName - Module name as a dot separated name
      * @param {string} sSuffix - Suffix to add to the final resource name
+     * @returns {any} 
      */
-    getResourceName(sModuleName: string, sSuffix?: string): void;
+    getResourceName(sModuleName: string, sSuffix?: string): any;
 
     /**
      * Determines the URL for a resource given its unified resource name.
@@ -2054,8 +2055,9 @@ declare interface JQuerySapLog {
 
     /**
      * Retrieves the currently recorded log entries.
+     * @returns {any} 
      */
-    getLog(): void;
+    getLog(): any;
 
     /**
      * Returns the logged entries recorded so far as an array.
